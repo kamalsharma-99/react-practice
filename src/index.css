@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.purple{
+  background-color: purple;
+  color:white;
+  
+}
+ul{
+  display:flex;
+  list-style-type: none;
+  justify-content: space-evenly;
+  padding:0px;
+}
+li{
+  padding:5px;
+}
+.color{
+  background-color: rgb(216, 182, 30);
+}
